@@ -12,4 +12,5 @@ Berikut adalah daftar karya mahasiswa yang disusun dalam tabel. Setiap entri men
 | 2   | Mochammad Fadhail           | SIMULASI TOPOLOGI BUS          | https://fadhail.github.io/Network-Programming/   |
 | 3   | AM Faraziftan               | SIMULASI TOPOLOGI BUS          | https://faraziftan.github.io/                    |
 | 4   | Muhamad Saladin Eka Septian | SIMULASI TOPOLOGI BUS          | https://ekastn.github.io/topologi-bus/           |
+| 5   | Iqbal Herlambang            | SIMULASI TOPOLOGI BUS          | https://qibal.github.io/topology_bus/            |
 | ... | ...                         | ...                            | ...                                              |
